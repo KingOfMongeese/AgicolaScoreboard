@@ -5,3 +5,4 @@ Run setup.py to install required models. Tested on Windows and Ubuntu.
 
 ```$ python3 setup.py```
 
+Or you can install the first release for Windows!
